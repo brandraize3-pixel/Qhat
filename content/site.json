@@ -1,0 +1,1716 @@
+{
+  "brand": {
+    "name": [
+      "كيوهات للتكنولوجيا",
+      "Qhat Technology"
+    ],
+    "tagline": [
+      "أنظمة مؤسسية… بسرعة وجودة",
+      "Enterprise systems — Quick. Quality."
+    ],
+    "website": "qhat-sa.com",
+    "email": "[info@qhat-sa.com]",
+    "phone": "[+966 5X XXX XXXX]",
+    "address": [
+      "[المدينة]، المملكة العربية السعودية",
+      "[City], Saudi Arabia"
+    ],
+    "cr": "[0000000000]",
+    "vat": "[000000000000000]"
+  },
+  "nav": [
+    {
+      "key": "home",
+      "href": "",
+      "label": [
+        "الرئيسية",
+        "Home"
+      ]
+    },
+    {
+      "key": "about",
+      "href": "about",
+      "label": [
+        "من نحن",
+        "About"
+      ]
+    },
+    {
+      "key": "services",
+      "href": "services",
+      "label": [
+        "خدماتنا",
+        "Services"
+      ]
+    },
+    {
+      "key": "solutions",
+      "href": "solutions",
+      "label": [
+        "أنظمة ERP",
+        "Odoo ERP"
+      ]
+    },
+    {
+      "key": "projects",
+      "href": "projects",
+      "label": [
+        "أعمالنا",
+        "Work"
+      ]
+    },
+    {
+      "key": "packages",
+      "href": "packages",
+      "label": [
+        "الباقات",
+        "Packages"
+      ]
+    },
+    {
+      "key": "faq",
+      "href": "faq",
+      "label": [
+        "الأسئلة الشائعة",
+        "FAQ"
+      ]
+    },
+    {
+      "key": "contact",
+      "href": "contact",
+      "label": [
+        "تواصل معنا",
+        "Contact"
+      ]
+    }
+  ],
+  "ui": {
+    "cta_start": [
+      "ابدأ مشروعك",
+      "Start your project"
+    ],
+    "cta_services": [
+      "اكتشف خدماتنا",
+      "Explore services"
+    ],
+    "cta_contact": [
+      "تواصل معنا",
+      "Contact us"
+    ],
+    "learn_more": [
+      "اعرف المزيد",
+      "Learn more"
+    ],
+    "call": [
+      "اتصل بنا",
+      "Call us"
+    ],
+    "lang_switch": [
+      "English",
+      "العربية"
+    ],
+    "deliverables": [
+      "ما نقدّمه",
+      "What we deliver"
+    ],
+    "all": [
+      "الكل",
+      "All"
+    ],
+    "sample": [
+      "نموذج توضيحي",
+      "Sample project"
+    ],
+    "popular": [
+      "الأكثر طلبًا",
+      "Most popular"
+    ],
+    "choose": [
+      "اختر الباقة",
+      "Choose plan"
+    ],
+    "per_project": [
+      "يبدأ من",
+      "Starting from"
+    ],
+    "sar": [
+      "ر.س",
+      "SAR"
+    ],
+    "more_q": [
+      "لديك سؤال آخر؟",
+      "Have another question?"
+    ],
+    "more_q_sub": [
+      "فريقنا جاهز للإجابة على استفساراتك خلال يوم عمل واحد.",
+      "Our team is ready to answer within one business day."
+    ],
+    "rights": [
+      "جميع الحقوق محفوظة",
+      "All rights reserved"
+    ],
+    "quick_links": [
+      "روابط سريعة",
+      "Quick links"
+    ],
+    "our_services": [
+      "خدماتنا",
+      "Services"
+    ],
+    "contact_info": [
+      "معلومات التواصل",
+      "Contact"
+    ],
+    "cr": [
+      "السجل التجاري",
+      "C.R."
+    ],
+    "vat": [
+      "الرقم الضريبي",
+      "VAT No."
+    ],
+    "footer_about": [
+      "شريك سعودي في أنظمة المؤسسات وتطبيق Odoo ERP والتحول الرقمي والذكاء الاصطناعي.",
+      "A Saudi partner for enterprise systems, Odoo ERP, digital transformation and AI."
+    ],
+    "vision_badge": [
+      "نحو رؤية 2030",
+      "Toward Vision 2030"
+    ],
+    "stats_note": [
+      "* الأرقام للعرض التوضيحي وتُحدَّث ببيانات الشركة",
+      "* Demo figures — to be updated with company data"
+    ],
+    "cta_consult": [
+      "احجز استشارة مجانية",
+      "Book a free consultation"
+    ],
+    "company_profile": [
+      "الملف التعريفي",
+      "Company profile"
+    ]
+  },
+  "home": {
+    "badge": [
+      "شريكك في أنظمة المؤسسات والتحول الرقمي",
+      "Your partner in enterprise systems & digital transformation"
+    ],
+    "title_a": [
+      "أنظمة مؤسسية ذكية",
+      "Smart enterprise systems"
+    ],
+    "title_b": [
+      "تدير أعمالك بكفاءة",
+      "that run your business"
+    ],
+    "title_c": [
+      "",
+      ""
+    ],
+    "sub": [
+      "نحلّل متطلبات أعمالك، ونصمم البنية المناسبة، ونطبّق أنظمة ERP مخصصة ترفع الكفاءة وتعظّم عائد استثمارك التقني.",
+      "We analyze your business requirements, design the right architecture and implement tailored ERP systems that boost efficiency and maximize your technology investment."
+    ],
+    "chips": [
+      "Odoo ERP",
+      "AI",
+      "Cloud",
+      "CRM",
+      "BI",
+      "API"
+    ],
+    "stats": [
+      {
+        "value": "[00]+",
+        "icon": "smile",
+        "label": [
+          "عميل ناجح",
+          "Successful clients"
+        ]
+      },
+      {
+        "value": "[00]+",
+        "icon": "layers",
+        "label": [
+          "مشروع منجز",
+          "Projects delivered"
+        ]
+      },
+      {
+        "value": "[00]+",
+        "icon": "users",
+        "label": [
+          "خبير ومطوّر",
+          "Experts & developers"
+        ]
+      },
+      {
+        "value": "[00]+",
+        "icon": "award",
+        "label": [
+          "سنوات خبرة",
+          "Years of experience"
+        ]
+      }
+    ],
+    "why_kicker": [
+      "لماذا كيوهات",
+      "Why Qhat"
+    ],
+    "why_title": [
+      "خبرة تقنية ووظيفية… في فريق واحد",
+      "Technical and functional expertise — in one team"
+    ],
+    "why_sub": [
+      "شعارنا يختصر طريقة عملنا: Quick + Quick + Quality = Q³",
+      "Our mark sums up how we work: Quick + Quick + Quality = Q³"
+    ],
+    "why": [
+      {
+        "icon": "layers",
+        "title": [
+          "خبرة تقنية-وظيفية",
+          "Techno-functional expertise"
+        ],
+        "text": [
+          "نفهم إجراءات أعمالك كما نفهم الكود، فنترجم احتياجك إلى نظام يعمل فعلًا.",
+          "We understand your processes as well as the code — turning needs into systems that work."
+        ]
+      },
+      {
+        "icon": "building",
+        "title": [
+          "هندسة حلول مؤسسية",
+          "Enterprise architecture"
+        ],
+        "text": [
+          "نصمم بنية أنظمة قابلة للتوسع والتكامل وآمنة من اليوم الأول.",
+          "Scalable, integrated and secure system architecture from day one."
+        ]
+      },
+      {
+        "icon": "spark",
+        "title": [
+          "ذكاء اصطناعي وبحث",
+          "AI & research"
+        ],
+        "text": [
+          "نوظّف الذكاء الاصطناعي وتحليل البيانات لتحويل بياناتك إلى قرارات.",
+          "AI and data analytics that turn your data into decisions."
+        ]
+      }
+    ],
+    "services_kicker": [
+      "خدماتنا",
+      "Services"
+    ],
+    "services_title": [
+      "حلول مؤسسية متكاملة لنمو أعمالك",
+      "Integrated enterprise solutions for your growth"
+    ],
+    "solutions_kicker": [
+      "حلول الأعمال",
+      "Business solutions"
+    ],
+    "solutions_title": [
+      "أدِر أعمالك كلها من منصة واحدة",
+      "Run your whole business from one platform"
+    ],
+    "solutions_text": [
+      "أنظمة إدارة متكاملة تربط المبيعات والمخزون والحسابات والموارد البشرية والعملاء، مع تقارير لحظية تساعدك على اتخاذ القرار بسرعة.",
+      "Integrated management systems linking sales, inventory, accounting, HR and customers — with real-time reports for faster decisions."
+    ],
+    "solutions_points": [
+      [
+        "المبيعات والمشتريات والمخزون",
+        "Sales, purchasing & inventory"
+      ],
+      [
+        "نقاط البيع والقائمة الرقمية",
+        "POS & digital menu"
+      ],
+      [
+        "الحسابات ودعم الفوترة الإلكترونية",
+        "Accounting & e-invoicing support"
+      ],
+      [
+        "الموارد البشرية والرواتب",
+        "HR & payroll"
+      ],
+      [
+        "تقارير ولوحات تحكم لحظية",
+        "Real-time dashboards"
+      ]
+    ],
+    "solutions_cta": [
+      "استكشف حلول الأعمال",
+      "Explore solutions"
+    ],
+    "process_kicker": [
+      "منهجية العمل",
+      "How we work"
+    ],
+    "process_title": [
+      "منهجية واضحة… من المتطلبات حتى الدعم",
+      "A clear method — from requirements to support"
+    ],
+    "sectors_kicker": [
+      "القطاعات",
+      "Sectors"
+    ],
+    "sectors_title": [
+      "نخدم قطاعات متنوعة",
+      "Serving diverse sectors"
+    ],
+    "clients_kicker": [
+      "شركاء النجاح",
+      "Our clients"
+    ],
+    "clients_title": [
+      "جهات وشركات تثق بنا",
+      "Trusted by organizations"
+    ],
+    "cta_title": [
+      "جاهز لنقل أعمالك إلى نظام متكامل؟",
+      "Ready to run your business on one integrated system?"
+    ],
+    "cta_sub": [
+      "احجز جلسة استشارية مجانية لتحليل احتياجك واقتراح الحل الأنسب.",
+      "Book a free consultation to analyze your needs and propose the right solution."
+    ],
+    "subline": [
+      "حلول Odoo ERP وهندسة الأنظمة والذكاء الاصطناعي — من التحليل حتى التشغيل",
+      "Odoo ERP, solution architecture and AI — from analysis to go-live"
+    ],
+    "pillars": [
+      {
+        "icon": "target",
+        "label": [
+          "تركيز على الأعمال",
+          "Business focused"
+        ]
+      },
+      {
+        "icon": "puzzle",
+        "label": [
+          "حلول مخصصة",
+          "Customized solutions"
+        ]
+      },
+      {
+        "icon": "chart",
+        "label": [
+          "أداء أعلى",
+          "Better performance"
+        ]
+      },
+      {
+        "icon": "shield",
+        "label": [
+          "موثوقية وأمان",
+          "Reliable & secure"
+        ]
+      },
+      {
+        "icon": "headset",
+        "label": [
+          "دعم وتدريب",
+          "Support & training"
+        ]
+      }
+    ],
+    "erp_kicker": [
+      "تطبيق Odoo ERP",
+      "Odoo ERP implementation"
+    ],
+    "erp_title": [
+      "تطبيق متكامل لنظام Odoo ERP",
+      "Complete Odoo ERP implementation"
+    ],
+    "erp_sub": [
+      "حلول شاملة من التحليل حتى التشغيل لنمو أعمالك",
+      "End-to-end solutions for your business growth"
+    ],
+    "erp_steps": [
+      {
+        "icon": "search",
+        "c": 0,
+        "label": [
+          "تحليل الأعمال والتخطيط",
+          "Business analysis & planning"
+        ]
+      },
+      {
+        "icon": "settings",
+        "c": 1,
+        "label": [
+          "الإعداد والتخصيص",
+          "Configuration & customization"
+        ]
+      },
+      {
+        "icon": "database",
+        "c": 2,
+        "label": [
+          "ترحيل البيانات",
+          "Data migration"
+        ]
+      },
+      {
+        "icon": "flow",
+        "c": 3,
+        "label": [
+          "أتمتة سير العمل",
+          "Workflow automation"
+        ]
+      },
+      {
+        "icon": "users",
+        "c": 4,
+        "label": [
+          "تدريب المستخدمين",
+          "User training"
+        ]
+      },
+      {
+        "icon": "headset",
+        "c": 5,
+        "label": [
+          "الإطلاق والدعم المستمر",
+          "Go-live & ongoing support"
+        ]
+      }
+    ],
+    "modules_title": [
+      "كل عمليات أعمالك في نظام واحد متكامل",
+      "All your operations in one integrated system"
+    ],
+    "modules": [
+      {
+        "icon": "heart",
+        "c": 0,
+        "label": [
+          "إدارة العملاء",
+          "CRM"
+        ]
+      },
+      {
+        "icon": "chart",
+        "c": 1,
+        "label": [
+          "المبيعات",
+          "Sales"
+        ]
+      },
+      {
+        "icon": "doc",
+        "c": 2,
+        "label": [
+          "المحاسبة",
+          "Accounting"
+        ]
+      },
+      {
+        "icon": "box",
+        "c": 3,
+        "label": [
+          "المخزون",
+          "Inventory"
+        ]
+      },
+      {
+        "icon": "cart",
+        "c": 4,
+        "label": [
+          "المشتريات",
+          "Purchase"
+        ]
+      },
+      {
+        "icon": "factory",
+        "c": 5,
+        "label": [
+          "التصنيع",
+          "Manufacturing"
+        ]
+      },
+      {
+        "icon": "users",
+        "c": 0,
+        "label": [
+          "الموارد البشرية",
+          "HR"
+        ]
+      },
+      {
+        "icon": "wallet",
+        "c": 1,
+        "label": [
+          "الرواتب",
+          "Payroll"
+        ]
+      },
+      {
+        "icon": "check",
+        "c": 2,
+        "label": [
+          "المشاريع",
+          "Project"
+        ]
+      },
+      {
+        "icon": "clock",
+        "c": 3,
+        "label": [
+          "سجلات الوقت",
+          "Timesheets"
+        ]
+      },
+      {
+        "icon": "folder",
+        "c": 4,
+        "label": [
+          "المستندات",
+          "Documents"
+        ]
+      },
+      {
+        "icon": "pie",
+        "c": 5,
+        "label": [
+          "التقارير",
+          "Reports"
+        ]
+      }
+    ],
+    "erp_tagline": [
+      "بسّط. أتمت. انمُ — مع Odoo ERP",
+      "Streamline. Automate. Grow. — with Odoo ERP"
+    ],
+    "dash_kicker": [
+      "لوحات التحكم والتقارير",
+      "Dashboards & reporting"
+    ],
+    "dash_title": [
+      "قرارات أسرع ببيانات لحظية",
+      "Faster decisions with real-time data"
+    ],
+    "dash_text": [
+      "لوحات تحكم تفاعلية وتقارير تنفيذية تجمع بيانات المبيعات والمالية والمخزون والموارد البشرية والمشاريع في شاشة واحدة.",
+      "Interactive dashboards and executive reporting that bring sales, finance, inventory, HR and projects into one view."
+    ],
+    "dash_points": [
+      [
+        "المبيعات",
+        "Sales"
+      ],
+      [
+        "المالية",
+        "Finance"
+      ],
+      [
+        "المخزون",
+        "Inventory"
+      ],
+      [
+        "الموارد البشرية",
+        "HR"
+      ],
+      [
+        "المشاريع",
+        "Projects"
+      ]
+    ],
+    "tech_kicker": [
+      "التقنيات",
+      "Technology"
+    ],
+    "tech_title": [
+      "تقنيات موثوقة نبني بها حلولك",
+      "Proven technologies we build with"
+    ],
+    "tech": [
+      "Odoo",
+      "Python",
+      "PostgreSQL",
+      "Docker",
+      "Linux",
+      "REST APIs",
+      "Next.js",
+      "React",
+      "Flutter",
+      "AI / ML",
+      "Power BI",
+      "Cloud"
+    ],
+    "trust": [
+      "Odoo",
+      "Python",
+      "PostgreSQL",
+      "Docker",
+      "AI / ML"
+    ],
+    "trust_label": [
+      "نبني بتقنيات موثوقة:",
+      "Built with:"
+    ]
+  },
+  "services": [
+    {
+      "slug": "erp",
+      "icon": "layers",
+      "title": [
+        "تطبيق أنظمة Odoo ERP",
+        "Odoo ERP Implementation"
+      ],
+      "short": [
+        "تطبيق متكامل من التحليل والإعداد حتى الإطلاق والدعم.",
+        "Full implementation, from analysis and setup to go-live."
+      ],
+      "text": [
+        "نحلّل متطلباتك، ونربطها بوحدات Odoo المناسبة، ونطبّق نظامًا متكاملًا يناسب سير عملك ويرفع كفاءة فرقك.",
+        "We analyze your requirements, map them to the right Odoo modules and implement an integrated system that fits your workflow."
+      ],
+      "items": [
+        [
+          "تحليل الأعمال",
+          "Business analysis"
+        ],
+        [
+          "الإعداد والتهيئة",
+          "Configuration"
+        ],
+        [
+          "ترحيل البيانات",
+          "Data migration"
+        ],
+        [
+          "تدريب المستخدمين",
+          "User training"
+        ],
+        [
+          "الإطلاق",
+          "Go-live"
+        ],
+        [
+          "الدعم المستمر",
+          "Ongoing support"
+        ]
+      ]
+    },
+    {
+      "slug": "odoo-dev",
+      "icon": "code",
+      "title": [
+        "تطوير وتخصيص Odoo",
+        "Custom Odoo Development"
+      ],
+      "short": [
+        "وحدات مخصصة وأتمتة وتقارير تناسب أعمالك تمامًا.",
+        "Custom modules, automation and reports built around you."
+      ],
+      "text": [
+        "نبني وحدات Odoo مخصصة بلغة Python وقاعدة PostgreSQL لأتمتة الإجراءات وتحسين الإنتاجية وتبسيط العمليات.",
+        "We build custom Odoo modules in Python and PostgreSQL to automate processes, improve productivity and streamline operations."
+      ],
+      "items": [
+        [
+          "وحدات مخصصة",
+          "Custom modules"
+        ],
+        [
+          "أتمتة الموافقات",
+          "Approval automation"
+        ],
+        [
+          "تقارير ولوحات KPI",
+          "Reports & KPIs"
+        ],
+        [
+          "التصنيع MRP",
+          "Manufacturing (MRP)"
+        ],
+        [
+          "الموارد البشرية والرواتب",
+          "HR & payroll"
+        ],
+        [
+          "ربط الأنظمة",
+          "Integrations"
+        ]
+      ]
+    },
+    {
+      "slug": "architecture",
+      "icon": "building",
+      "title": [
+        "هندسة الحلول والتكامل المؤسسي",
+        "Enterprise Architecture & Integration"
+      ],
+      "short": [
+        "بنية أنظمة قابلة للتوسع وتكامل آمن بين منصاتك.",
+        "Scalable architecture and secure integration across platforms."
+      ],
+      "text": [
+        "نصمم بنية الأنظمة المؤسسية ونربط ERP مع منصاتك الأخرى — المتاجر وبوابات الدفع والأنظمة الحكومية والبنكية — عبر واجهات API آمنة.",
+        "We design enterprise architecture and connect your ERP with stores, payment gateways and other platforms through secure APIs."
+      ],
+      "items": [
+        [
+          "تصميم البنية",
+          "Solution architecture"
+        ],
+        [
+          "تكامل API",
+          "API integration"
+        ],
+        [
+          "دعم الفوترة الإلكترونية",
+          "E-invoicing support"
+        ],
+        [
+          "الأمن والصلاحيات",
+          "Security & access"
+        ],
+        [
+          "البنية السحابية",
+          "Cloud infrastructure"
+        ],
+        [
+          "Docker و Linux",
+          "Docker & Linux"
+        ]
+      ]
+    },
+    {
+      "slug": "transformation",
+      "icon": "bulb",
+      "title": [
+        "التحول الرقمي وإدارة الأنظمة",
+        "Digital Transformation & IT Management"
+      ],
+      "short": [
+        "خارطة طريق واضحة وحوكمة لأنظمة المعلومات.",
+        "A clear roadmap and governance for your IT."
+      ],
+      "text": [
+        "نقيّم وضعك التقني الحالي، ونرسم خارطة طريق للتحول الرقمي، وندير أنظمة المعلومات بحوكمة واضحة ومؤشرات أداء.",
+        "We assess your current IT, draw a transformation roadmap and manage information systems with clear governance and KPIs."
+      ],
+      "items": [
+        [
+          "تقييم الوضع الحالي",
+          "Current-state assessment"
+        ],
+        [
+          "خارطة طريق رقمية",
+          "Digital roadmap"
+        ],
+        [
+          "حوكمة تقنية المعلومات",
+          "IT governance"
+        ],
+        [
+          "إدارة المشاريع",
+          "Project management"
+        ],
+        [
+          "إدارة التغيير",
+          "Change management"
+        ],
+        [
+          "التدريب",
+          "Training"
+        ]
+      ]
+    },
+    {
+      "slug": "ai",
+      "icon": "spark",
+      "title": [
+        "الذكاء الاصطناعي وتحليل البيانات",
+        "AI & Data Analytics"
+      ],
+      "short": [
+        "حوّل بياناتك إلى قرارات بلوحات تحكم وحلول ذكية.",
+        "Turn data into decisions with dashboards and AI."
+      ],
+      "text": [
+        "نبني لوحات تحكم تنفيذية، ونماذج تنبؤية، ومساعدين أذكياء يعملون فوق بيانات نظامك لتسريع القرار.",
+        "Executive dashboards, predictive models and AI assistants built on top of your system data."
+      ],
+      "items": [
+        [
+          "لوحات تحكم تنفيذية",
+          "Executive dashboards"
+        ],
+        [
+          "ذكاء الأعمال BI",
+          "Business intelligence"
+        ],
+        [
+          "التحليلات التنبؤية",
+          "Predictive analytics"
+        ],
+        [
+          "مساعدات ذكية",
+          "AI assistants"
+        ],
+        [
+          "أتمتة المستندات",
+          "Document automation"
+        ],
+        [
+          "جودة البيانات",
+          "Data quality"
+        ]
+      ]
+    },
+    {
+      "slug": "apps",
+      "icon": "phone",
+      "title": [
+        "تطبيقات الويب والجوال",
+        "Web & Mobile Applications"
+      ],
+      "short": [
+        "بوابات ومنصات وتطبيقات مرتبطة بنظامك.",
+        "Portals, platforms and apps connected to your system."
+      ],
+      "text": [
+        "بوابات عملاء وموردين، ومتاجر إلكترونية، وتطبيقات جوال مرتبطة مباشرة بنظام ERP لتجربة سلسة.",
+        "Customer and vendor portals, e-commerce and mobile apps connected directly to your ERP."
+      ],
+      "items": [
+        [
+          "بوابات العملاء",
+          "Customer portals"
+        ],
+        [
+          "المتاجر الإلكترونية",
+          "E-commerce"
+        ],
+        [
+          "تطبيقات iOS وAndroid",
+          "iOS & Android apps"
+        ],
+        [
+          "تطبيقات المبيعات الميدانية",
+          "Field sales apps"
+        ],
+        [
+          "العربية والإنجليزية",
+          "Arabic & English"
+        ],
+        [
+          "تجربة مستخدم UX",
+          "UX design"
+        ]
+      ]
+    }
+  ],
+  "process": [
+    {
+      "icon": "search",
+      "title": [
+        "تحليل المتطلبات",
+        "Requirement analysis"
+      ],
+      "text": [
+        "ورش عمل لفهم الإجراءات والأهداف.",
+        "Workshops to map processes and goals."
+      ]
+    },
+    {
+      "icon": "code",
+      "title": [
+        "التطوير والتخصيص",
+        "Development"
+      ],
+      "text": [
+        "إعداد وتخصيص الوحدات وفق احتياجك.",
+        "Configure and customize modules."
+      ]
+    },
+    {
+      "icon": "check",
+      "title": [
+        "الاختبار",
+        "Testing"
+      ],
+      "text": [
+        "اختبارات وظيفية وأداء وأمان.",
+        "Functional, performance and security tests."
+      ]
+    },
+    {
+      "icon": "rocket",
+      "title": [
+        "الإطلاق",
+        "Deployment"
+      ],
+      "text": [
+        "ترحيل البيانات وإطلاق آمن.",
+        "Data migration and a safe go-live."
+      ]
+    },
+    {
+      "icon": "headset",
+      "title": [
+        "الدعم",
+        "Support"
+      ],
+      "text": [
+        "تدريب ودعم وتحسين مستمر.",
+        "Training, support and improvement."
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "icon": "building",
+      "label": [
+        "القطاع الحكومي",
+        "Government"
+      ]
+    },
+    {
+      "icon": "health",
+      "label": [
+        "الرعاية الصحية",
+        "Healthcare"
+      ]
+    },
+    {
+      "icon": "edu",
+      "label": [
+        "التعليم والتدريب",
+        "Education"
+      ]
+    },
+    {
+      "icon": "cart",
+      "label": [
+        "التجزئة والتجارة الإلكترونية",
+        "Retail & E-commerce"
+      ]
+    },
+    {
+      "icon": "home",
+      "label": [
+        "العقار والمقاولات",
+        "Real estate"
+      ]
+    },
+    {
+      "icon": "truck",
+      "label": [
+        "النقل والخدمات اللوجستية",
+        "Logistics"
+      ]
+    },
+    {
+      "icon": "cup",
+      "label": [
+        "المطاعم والضيافة",
+        "Restaurants & Hospitality"
+      ]
+    },
+    {
+      "icon": "rocket",
+      "label": [
+        "المنشآت الصغيرة والناشئة",
+        "SMEs & Startups"
+      ]
+    }
+  ],
+  "about": {
+    "kicker": [
+      "من نحن",
+      "About us"
+    ],
+    "title": [
+      "خبرة مؤسسية تبني أنظمة تعمل",
+      "Enterprise expertise that builds systems that work"
+    ],
+    "sub": [
+      "كيوهات للتكنولوجيا شركة سعودية متخصصة في أنظمة المؤسسات وتطبيق Odoo ERP وهندسة الحلول والتحول الرقمي والذكاء الاصطناعي.",
+      "Qhat Technology is a Saudi company specializing in enterprise systems, Odoo ERP implementation, solution architecture, digital transformation and AI."
+    ],
+    "story_title": [
+      "قصتنا",
+      "Our story"
+    ],
+    "story": [
+      [
+        "نجمع في فريق واحد بين إدارة أنظمة المؤسسات، وهندسة الحلول، وهندسة البرمجيات، والاستشارات التقنية-الوظيفية لأنظمة Odoo، إلى جانب خلفية أكاديمية وبحثية في الذكاء الاصطناعي.",
+        "We bring together enterprise systems management, solution architecture, software engineering and techno-functional Odoo consulting — backed by academic and research experience in AI."
+      ],
+      [
+        "لذلك لا نكتفي بتركيب نظام؛ بل نفهم أعمالك، ونصمم الحل الصحيح، ونطبّقه بسرعة وجودة، ونبقى شريكك بعد الإطلاق.",
+        "So we don't just install software: we understand your business, design the right solution, deliver it quickly and with quality, and stay your partner after go-live."
+      ]
+    ],
+    "vision_title": [
+      "رؤيتنا",
+      "Vision"
+    ],
+    "vision": [
+      "أن نكون الشريك التقني الأسرع والأكثر موثوقية للجهات والشركات في المملكة، وأن نسهم في بناء اقتصاد رقمي مزدهر.",
+      "To be the fastest and most trusted technology partner for organizations across Saudi Arabia, helping build a thriving digital economy."
+    ],
+    "mission_title": [
+      "رسالتنا",
+      "Mission"
+    ],
+    "mission": [
+      "تقديم حلول برمجية مخصصة وعالية الجودة، بسرعة في التنفيذ ووضوح في التواصل، تمكّن عملاءنا من النمو بثقة.",
+      "To deliver high-quality custom software with fast execution and clear communication — enabling our clients to grow with confidence."
+    ],
+    "values_title": [
+      "قيمنا",
+      "Our values"
+    ],
+    "values": [
+      {
+        "icon": "bolt",
+        "title": [
+          "السرعة",
+          "Speed"
+        ],
+        "text": [
+          "نختصر المسافة بين الفكرة والإطلاق.",
+          "We shorten the path from idea to launch."
+        ]
+      },
+      {
+        "icon": "award",
+        "title": [
+          "الجودة",
+          "Quality"
+        ],
+        "text": [
+          "معايير صارمة في الكود والتصميم والاختبار.",
+          "Rigorous standards in code, design and testing."
+        ]
+      },
+      {
+        "icon": "eye",
+        "title": [
+          "الشفافية",
+          "Transparency"
+        ],
+        "text": [
+          "تواصل واضح والتزامات نفي بها.",
+          "Clear communication, commitments we keep."
+        ]
+      },
+      {
+        "icon": "spark",
+        "title": [
+          "الابتكار",
+          "Innovation"
+        ],
+        "text": [
+          "تقنيات حديثة لحل مشكلات حقيقية.",
+          "Modern technology for real problems."
+        ]
+      },
+      {
+        "icon": "users",
+        "title": [
+          "الشراكة",
+          "Partnership"
+        ],
+        "text": [
+          "نجاح عملائنا هو مقياس نجاحنا.",
+          "Our clients' success is our measure."
+        ]
+      },
+      {
+        "icon": "shield",
+        "title": [
+          "الأمان",
+          "Security"
+        ],
+        "text": [
+          "حماية البيانات جزء من كل حل نبنيه.",
+          "Data protection built into everything."
+        ]
+      }
+    ],
+    "idea_title": [
+      "فكرة الهوية",
+      "The idea behind Q"
+    ],
+    "idea_text": [
+      "وُلد شعار كيوهات من فكرة أن يجمع حرف Q ثلاث كلمات تبدأ به: Quick وQuick وQuality. البرق يرمز لسرعة الاستجابة، وخطوط الحركة لسرعة الإنجاز، والحلقة المحيطة للجودة الشاملة.",
+      "The Qhat mark brings three words into one letter: Quick, Quick and Quality. The bolt stands for speed of response, the motion lines for speed of delivery, and the orbit for complete quality."
+    ],
+    "v2030_title": [
+      "نحو رؤية المملكة 2030",
+      "Toward Saudi Vision 2030"
+    ],
+    "v2030": [
+      "نؤمن بدور التقنية في تحقيق مستهدفات الرؤية: دعم التحول الرقمي للجهات، وتمكين المنشآت الصغيرة والمتوسطة، وتعزيز المحتوى المحلي في قطاع التقنية.",
+      "We believe in technology's role in Vision 2030: supporting digital transformation, empowering SMEs and strengthening local content in the tech sector."
+    ],
+    "expertise_title": [
+      "مجالات خبرتنا",
+      "Our expertise"
+    ],
+    "expertise": [
+      {
+        "icon": "building",
+        "label": [
+          "إدارة أنظمة المؤسسات وتقنية المعلومات",
+          "IT & enterprise systems management"
+        ]
+      },
+      {
+        "icon": "layers",
+        "label": [
+          "هندسة الحلول المؤسسية",
+          "Enterprise solution architecture"
+        ]
+      },
+      {
+        "icon": "code",
+        "label": [
+          "هندسة البرمجيات",
+          "Senior software engineering"
+        ]
+      },
+      {
+        "icon": "settings",
+        "label": [
+          "استشارات Odoo التقنية-الوظيفية",
+          "Odoo techno-functional consulting"
+        ]
+      },
+      {
+        "icon": "bulb",
+        "label": [
+          "التحول الرقمي",
+          "Digital transformation"
+        ]
+      },
+      {
+        "icon": "spark",
+        "label": [
+          "التعليم الجامعي وأبحاث الذكاء الاصطناعي",
+          "University teaching & AI research"
+        ]
+      }
+    ]
+  },
+  "servicesPage": {
+    "kicker": [
+      "خدماتنا",
+      "Services"
+    ],
+    "title": [
+      "حلول متكاملة من الفكرة حتى التشغيل",
+      "End-to-end solutions, from idea to operation"
+    ],
+    "sub": [
+      "ست خدمات رئيسية تغطي دورة حياة الحل الرقمي كاملة، لتجد كل ما تحتاجه لدى شريك واحد.",
+      "Six core services covering the full lifecycle of a digital solution — all from one partner."
+    ]
+  },
+  "solutionsPage": {
+    "kicker": [
+      "أنظمة ERP",
+      "Odoo ERP"
+    ],
+    "title": [
+      "Odoo ERP… كل أعمالك في نظام واحد",
+      "Odoo ERP — your entire business in one system"
+    ],
+    "sub": [
+      "نطبّق ونخصص وحدات Odoo المناسبة لنشاطك، ونربطها ببعضها وبأنظمتك الأخرى لتعمل كمنظومة واحدة.",
+      "We implement and customize the right Odoo modules for your business and connect them into one ecosystem."
+    ],
+    "modules": [
+      {
+        "icon": "doc",
+        "title": [
+          "المحاسبة والمالية",
+          "Accounting & Finance"
+        ],
+        "text": [
+          "قيود وتسويات وتقارير مالية لحظية مع دعم الفوترة الإلكترونية وضريبة القيمة المضافة.",
+          "Ledgers, reconciliation and real-time reports with e-invoicing and VAT support."
+        ]
+      },
+      {
+        "icon": "chart",
+        "title": [
+          "المبيعات وإدارة العملاء",
+          "Sales & CRM"
+        ],
+        "text": [
+          "فرص وعروض أسعار وأوامر بيع ومتابعة فرق المبيعات.",
+          "Leads, quotations, orders and sales team tracking."
+        ]
+      },
+      {
+        "icon": "box",
+        "title": [
+          "المخزون والمشتريات",
+          "Inventory & Purchase"
+        ],
+        "text": [
+          "مستودعات متعددة، وقواعد إعادة الطلب، وتقييم المخزون.",
+          "Multi-warehouse, reordering rules and valuation."
+        ]
+      },
+      {
+        "icon": "factory",
+        "title": [
+          "التصنيع MRP",
+          "Manufacturing (MRP)"
+        ],
+        "text": [
+          "قوائم المواد وأوامر العمل وتخطيط الإنتاج والجودة.",
+          "BoMs, work orders, production planning and quality."
+        ]
+      },
+      {
+        "icon": "users",
+        "title": [
+          "الموارد البشرية والرواتب",
+          "HR & Payroll"
+        ],
+        "text": [
+          "العقود والحضور والإجازات والرواتب ونهاية الخدمة.",
+          "Contracts, attendance, leave, payroll and end of service."
+        ]
+      },
+      {
+        "icon": "check",
+        "title": [
+          "المشاريع وسجلات الوقت",
+          "Projects & Timesheets"
+        ],
+        "text": [
+          "مهام ومراحل ولوحات مشاريع وتتبع الوقت والتكلفة.",
+          "Tasks, stages, project dashboards, time and cost."
+        ]
+      }
+    ],
+    "features_title": [
+      "لماذا تطبّق Odoo معنا؟",
+      "Why implement Odoo with us?"
+    ],
+    "features": [
+      [
+        "خبرة تقنية ووظيفية في Odoo",
+        "Techno-functional Odoo expertise"
+      ],
+      [
+        "Odoo Community و Enterprise",
+        "Odoo Community & Enterprise"
+      ],
+      [
+        "ترحيل آمن للبيانات من أنظمتك القديمة",
+        "Safe data migration from legacy systems"
+      ],
+      [
+        "تقارير ولوحات KPI مخصصة",
+        "Custom reports & KPI dashboards"
+      ],
+      [
+        "واجهات عربية وإنجليزية",
+        "Arabic & English interfaces"
+      ],
+      [
+        "تدريب ودعم بعد الإطلاق",
+        "Training and post go-live support"
+      ]
+    ]
+  },
+  "projectsPage": {
+    "kicker": [
+      "أعمالنا",
+      "Our work"
+    ],
+    "title": [
+      "مشاريع تتحدث عن نفسها",
+      "Work that speaks for itself"
+    ],
+    "sub": [
+      "نماذج توضيحية لأنواع المشاريع التي نبنيها. تُستبدل بمشاريع الشركة الفعلية.",
+      "Illustrative examples of the projects we build — to be replaced with the company's real work."
+    ],
+    "filters": [
+      {
+        "key": "web",
+        "label": [
+          "مواقع ومنصات",
+          "Web"
+        ]
+      },
+      {
+        "key": "mobile",
+        "label": [
+          "تطبيقات",
+          "Mobile"
+        ]
+      },
+      {
+        "key": "system",
+        "label": [
+          "أنظمة ERP",
+          "ERP systems"
+        ]
+      }
+    ],
+    "items": [
+      {
+        "cat": "system",
+        "title": [
+          "تطبيق Odoo ERP لشركة توزيع",
+          "Odoo ERP for a distribution company"
+        ],
+        "tags": [
+          "Sales",
+          "Inventory",
+          "Accounting"
+        ],
+        "hue": 0
+      },
+      {
+        "cat": "system",
+        "title": [
+          "نظام تصنيع MRP لمصنع",
+          "MRP system for a factory"
+        ],
+        "tags": [
+          "Manufacturing",
+          "Quality"
+        ],
+        "hue": 2
+      },
+      {
+        "cat": "web",
+        "title": [
+          "لوحة تحكم تنفيذية للإدارة العليا",
+          "Executive BI dashboard"
+        ],
+        "tags": [
+          "BI",
+          "KPIs",
+          "AI"
+        ],
+        "hue": 1
+      },
+      {
+        "cat": "web",
+        "title": [
+          "بوابة عملاء مرتبطة بـ ERP",
+          "Customer portal linked to ERP"
+        ],
+        "tags": [
+          "Portal",
+          "API"
+        ],
+        "hue": 0
+      },
+      {
+        "cat": "system",
+        "title": [
+          "الموارد البشرية والرواتب لمجموعة شركات",
+          "HR & payroll for a group of companies"
+        ],
+        "tags": [
+          "HR",
+          "Payroll"
+        ],
+        "hue": 1
+      },
+      {
+        "cat": "mobile",
+        "title": [
+          "تطبيق مبيعات ميدانية",
+          "Field sales mobile app"
+        ],
+        "tags": [
+          "Flutter",
+          "Odoo API"
+        ],
+        "hue": 2
+      }
+    ]
+  },
+  "packagesPage": {
+    "kicker": [
+      "الباقات",
+      "Packages"
+    ],
+    "title": [
+      "باقات تطبيق ERP مرنة",
+      "Flexible ERP implementation packages"
+    ],
+    "sub": [
+      "ابدأ بما تحتاجه اليوم، وتوسّع مع نمو أعمالك.",
+      "Start with what you need today and scale as you grow."
+    ],
+    "plans": [
+      {
+        "name": [
+          "الأساسية",
+          "Essential"
+        ],
+        "for": [
+          "للمنشآت الصغيرة والناشئة",
+          "For small businesses & startups"
+        ],
+        "price": "[00,000]",
+        "popular": false,
+        "features": [
+          [
+            "حتى 3 وحدات (مبيعات، مخزون، محاسبة)",
+            "Up to 3 modules (Sales, Inventory, Accounting)"
+          ],
+          [
+            "إعداد وتهيئة النظام",
+            "System setup & configuration"
+          ],
+          [
+            "ترحيل البيانات الأساسية",
+            "Basic data migration"
+          ],
+          [
+            "تدريب المستخدمين",
+            "User training"
+          ],
+          [
+            "دعم لمدة شهر",
+            "1 month support"
+          ]
+        ]
+      },
+      {
+        "name": [
+          "الأعمال",
+          "Business"
+        ],
+        "for": [
+          "للشركات المتوسطة والفروع",
+          "For mid-size companies & branches"
+        ],
+        "price": "[00,000]",
+        "popular": true,
+        "features": [
+          [
+            "حتى 8 وحدات",
+            "Up to 8 modules"
+          ],
+          [
+            "تخصيصات وتقارير حسب الطلب",
+            "Customizations & custom reports"
+          ],
+          [
+            "ترحيل البيانات الكامل",
+            "Full data migration"
+          ],
+          [
+            "أتمتة سير العمل",
+            "Workflow automation"
+          ],
+          [
+            "دعم لمدة 6 أشهر",
+            "6 months support"
+          ]
+        ]
+      },
+      {
+        "name": [
+          "المؤسسات",
+          "Enterprise"
+        ],
+        "for": [
+          "للجهات والمجموعات الكبرى",
+          "For large organizations & groups"
+        ],
+        "price": "",
+        "popular": false,
+        "features": [
+          [
+            "جميع الوحدات وتعدد الشركات",
+            "All modules & multi-company"
+          ],
+          [
+            "وحدات Odoo مخصصة",
+            "Custom Odoo modules"
+          ],
+          [
+            "تكامل مع الأنظمة الأخرى",
+            "Integration with other systems"
+          ],
+          [
+            "لوحات BI وذكاء اصطناعي",
+            "BI dashboards & AI"
+          ],
+          [
+            "اتفاقية مستوى خدمة SLA",
+            "Service level agreement"
+          ]
+        ]
+      }
+    ],
+    "custom": [
+      "حسب الطلب",
+      "Custom quote"
+    ]
+  },
+  "faqPage": {
+    "kicker": [
+      "الأسئلة الشائعة",
+      "FAQ"
+    ],
+    "title": [
+      "إجابات لأكثر ما يُسأل عنه",
+      "Answers to common questions"
+    ],
+    "items": [
+      {
+        "q": [
+          "ما الخدمات التي تقدمها كيوهات؟",
+          "What does Qhat offer?"
+        ],
+        "a": [
+          "تطبيق وتخصيص أنظمة Odoo ERP، وهندسة الحلول والتكامل، والتحول الرقمي، والذكاء الاصطناعي وتحليل البيانات، وتطبيقات الويب والجوال.",
+          "Odoo ERP implementation and customization, solution architecture and integration, digital transformation, AI and analytics, and web & mobile apps."
+        ]
+      },
+      {
+        "q": [
+          "كم يستغرق تنفيذ المشروع؟",
+          "How long does a project take?"
+        ],
+        "a": [
+          "يعتمد على حجم المشروع؛ المواقع التعريفية عادةً خلال أسابيع قليلة، والأنظمة والتطبيقات الأكبر على مراحل نحدد مدتها بوضوح في خطة العمل.",
+          "It depends on scope: company websites usually take a few weeks; larger systems and apps are delivered in phases with a clear timeline in the plan."
+        ]
+      },
+      {
+        "q": [
+          "كيف يتم تحديد التكلفة؟",
+          "How is pricing determined?"
+        ],
+        "a": [
+          "بعد جلسة اكتشاف مجانية نفهم فيها احتياجك، نرسل لك عرض سعر واضحًا بنطاق العمل والمراحل، دون تكاليف مخفية.",
+          "After a free discovery session, we send a clear quote with scope and milestones — no hidden costs."
+        ]
+      },
+      {
+        "q": [
+          "هل تعملون مع Odoo Community و Enterprise؟",
+          "Do you work with Odoo Community and Enterprise?"
+        ],
+        "a": [
+          "نعم، نطبّق ونخصص الإصدارين، ونساعدك على اختيار الأنسب لاحتياجك وميزانيتك.",
+          "Yes. We implement and customize both editions and help you choose the right one for your needs and budget."
+        ]
+      },
+      {
+        "q": [
+          "هل تقدمون دعمًا بعد التسليم؟",
+          "Do you provide support after delivery?"
+        ],
+        "a": [
+          "بالتأكيد. كل باقة تشمل فترة دعم فني، ونوفر عقود صيانة ودعم مستمرة حسب الحاجة.",
+          "Absolutely. Every package includes a support period, and we offer ongoing maintenance contracts."
+        ]
+      },
+      {
+        "q": [
+          "هل يمكن ترحيل بياناتنا من النظام القديم؟",
+          "Can you migrate data from our old system?"
+        ],
+        "a": [
+          "نعم، نخطط لترحيل البيانات ونختبره قبل الإطلاق لضمان انتقال آمن ودقيق.",
+          "Yes. We plan and test the migration before go-live to ensure a safe, accurate transition."
+        ]
+      },
+      {
+        "q": [
+          "هل تخدمون العملاء خارج مدينتكم؟",
+          "Do you serve clients outside your city?"
+        ],
+        "a": [
+          "نعم، نخدم العملاء في جميع مناطق المملكة، ونعمل عن بُعد بكفاءة مع اجتماعات دورية.",
+          "Yes, we serve clients across the Kingdom and work remotely with regular meetings."
+        ]
+      },
+      {
+        "q": [
+          "كيف أبدأ مشروعي معكم؟",
+          "How do I start?"
+        ],
+        "a": [
+          "تواصل معنا عبر النموذج أو الهاتف، وسنحدد جلسة اكتشاف مجانية لفهم فكرتك واقتراح الحل المناسب.",
+          "Reach out via the form or phone, and we'll book a free discovery session to understand your idea."
+        ]
+      }
+    ]
+  },
+  "contactPage": {
+    "kicker": [
+      "تواصل معنا",
+      "Contact"
+    ],
+    "title": [
+      "لنبنِ مشروعك القادم… معًا",
+      "Let's build what's next — together"
+    ],
+    "sub": [
+      "شاركنا فكرتك، وسنعود إليك خلال يوم عمل واحد.",
+      "Share your idea — we'll get back to you within one business day."
+    ],
+    "form": {
+      "name": [
+        "الاسم الكامل",
+        "Full name"
+      ],
+      "email": [
+        "البريد الإلكتروني",
+        "Email"
+      ],
+      "phone": [
+        "رقم الجوال",
+        "Mobile number"
+      ],
+      "service": [
+        "الخدمة المطلوبة",
+        "Service needed"
+      ],
+      "message": [
+        "حدثنا عن مشروعك",
+        "Tell us about your project"
+      ],
+      "submit": [
+        "إرسال الطلب",
+        "Send request"
+      ],
+      "sent": [
+        "شكرًا لك! تم استلام طلبك (نموذج تجريبي).",
+        "Thank you! Your request was received (demo form)."
+      ]
+    },
+    "hours_title": [
+      "ساعات العمل",
+      "Working hours"
+    ],
+    "hours": [
+      "الأحد – الخميس، 9 ص – 6 م",
+      "Sun – Thu, 9 AM – 6 PM"
+    ],
+    "map": [
+      "موقعنا على الخريطة",
+      "Find us on the map"
+    ]
+  }
+}

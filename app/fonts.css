@@ -1,0 +1,17 @@
+/* Somar Sans (Baianat) — NORMAL width files only, placed in /public/fonts.
+   Do NOT use the "Condensed" or "Extended" files: they make the letters narrow/wide.
+   The family is registered under a private name ("Qhat Somar") so a Somar font
+   installed on the computer can never replace it by mistake.
+   If the files are missing, the site falls back to IBM Plex Sans Arabic. */
+@font-face { font-family: "Qhat Somar"; font-weight: 300; font-style: normal; font-stretch: 100%; font-display: swap;
+  src: url("/fonts/SomarSans-Light.woff2") format("woff2"), url("/fonts/SomarSans-Light.otf") format("opentype"), url("/fonts/SomarSans-Light.ttf") format("truetype"); }
+@font-face { font-family: "Qhat Somar"; font-weight: 400; font-style: normal; font-stretch: 100%; font-display: swap;
+  src: url("/fonts/SomarSans-Regular.woff2") format("woff2"), url("/fonts/SomarSans-Regular.otf") format("opentype"), url("/fonts/SomarSans-Regular.ttf") format("truetype"); }
+@font-face { font-family: "Qhat Somar"; font-weight: 500; font-style: normal; font-stretch: 100%; font-display: swap;
+  src: url("/fonts/SomarSans-Medium.woff2") format("woff2"), url("/fonts/SomarSans-Medium.otf") format("opentype"), url("/fonts/SomarSans-Medium.ttf") format("truetype"); }
+@font-face { font-family: "Qhat Somar"; font-weight: 600; font-style: normal; font-stretch: 100%; font-display: swap;
+  src: url("/fonts/SomarSans-SemiBold.woff2") format("woff2"), url("/fonts/SomarSans-SemiBold.otf") format("opentype"), url("/fonts/SomarSans-SemiBold.ttf") format("truetype"); }
+@font-face { font-family: "Qhat Somar"; font-weight: 700; font-style: normal; font-stretch: 100%; font-display: swap;
+  src: url("/fonts/SomarSans-Bold.woff2") format("woff2"), url("/fonts/SomarSans-Bold.otf") format("opentype"), url("/fonts/SomarSans-Bold.ttf") format("truetype"); }
+@font-face { font-family: "Qhat Somar"; font-weight: 800; font-style: normal; font-stretch: 100%; font-display: swap;
+  src: url("/fonts/SomarSans-ExtraBold.woff2") format("woff2"), url("/fonts/SomarSans-ExtraBold.otf") format("opentype"), url("/fonts/SomarSans-ExtraBold.ttf") format("truetype"); }
