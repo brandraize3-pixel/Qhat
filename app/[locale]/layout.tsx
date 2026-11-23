@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { IBM_Plex_Sans_Arabic } from "next/font/google";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -17,6 +17,13 @@ const fallback = IBM_Plex_Sans_Arabic({
 });
 
 export const dynamicParams = false;
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  viewportFit: "cover", // lets us respect iPhone safe areas (notch / home bar)
+  themeColor: "#07023a", // browser chrome matches the dark hero
+};
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
