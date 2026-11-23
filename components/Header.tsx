@@ -5,6 +5,7 @@ import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import Icon from "./Icon";
+import SocialLinks from "./SocialIcon";
 import { href, site, t, type Locale } from "@/lib/i18n";
 
 export default function Header({ locale }: { locale: Locale }) {
@@ -65,6 +66,7 @@ export default function Header({ locale }: { locale: Locale }) {
           </Link>
         ))}
         <Link href={switchHref} hrefLang={other}>{t(site.ui.lang_switch, locale)}</Link>
+        <SocialLinks locale={locale} variant="light" className="mobile-nav__social" />
       </div>
     </>
   );

@@ -3,6 +3,7 @@ import { IBM_Plex_Sans_Arabic } from "next/font/google";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Reveal from "@/components/Reveal";
+import WhatsAppFab from "@/components/WhatsAppFab";
 import { isLocale, locales, site, t } from "@/lib/i18n";
 import "../fonts.css";
 import "../globals.css";
@@ -41,6 +42,7 @@ export default async function LocaleLayout({ children, params }: { children: Rea
         <Header locale={locale} />
         <main>{children}</main>
         <Footer locale={locale} />
+        <WhatsAppFab locale={locale} />
         <Reveal />
       </body>
     </html>

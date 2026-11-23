@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import Icon from "./Icon";
+import SocialLinks from "./SocialIcon";
 import { href, site, t, type Locale } from "@/lib/i18n";
 
 export default function Footer({ locale }: { locale: Locale }) {
@@ -12,11 +13,8 @@ export default function Footer({ locale }: { locale: Locale }) {
           <div>
             <Image src="/brand/logo-white.png" alt={t(site.brand.name, locale)} width={785} height={446} className="footer__logo" style={{ height: 64, width: "auto" }} />
             <p className="footer__about">{t(site.ui.footer_about, locale)}</p>
-            <div className="footer__social" aria-label="Social">
-              {["X", "in", "IG", "TT"].map((s) => (
-                <a key={s} href="#" aria-label={s}>{s}</a>
-              ))}
-            </div>
+            <p className="footer__follow">{t(site.ui.follow_us, locale)}</p>
+            <SocialLinks locale={locale} variant="dark" />
           </div>
           <div>
             <h4>{t(site.ui.quick_links, locale)}</h4>

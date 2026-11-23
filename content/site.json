@@ -16,7 +16,14 @@
       "[City], Saudi Arabia"
     ],
     "cr": "[0000000000]",
-    "vat": "[000000000000000]"
+    "vat": "[000000000000000]",
+    "social": [
+      { "key": "x", "label": "X", "url": "#" },
+      { "key": "linkedin", "label": "LinkedIn", "url": "#" },
+      { "key": "instagram", "label": "Instagram", "url": "#" },
+      { "key": "tiktok", "label": "TikTok", "url": "#" },
+      { "key": "whatsapp", "label": "WhatsApp", "url": "#" }
+    ]
   },
   "nav": [
     {
@@ -145,6 +152,14 @@
       "فريقنا جاهز للإجابة على استفساراتك خلال يوم عمل واحد.",
       "Our team is ready to answer within one business day."
     ],
+    "follow_us": [
+      "تابعنا",
+      "Follow us"
+    ],
+    "chat_whatsapp": [
+      "تواصل عبر واتساب",
+      "Chat on WhatsApp"
+    ],
     "rights": [
       "جميع الحقوق محفوظة",
       "All rights reserved"
@@ -221,7 +236,8 @@
     ],
     "stats": [
       {
-        "value": "[00]+",
+        "value": 120,
+        "suffix": "+",
         "icon": "smile",
         "label": [
           "عميل ناجح",
@@ -229,7 +245,8 @@
         ]
       },
       {
-        "value": "[00]+",
+        "value": 250,
+        "suffix": "+",
         "icon": "layers",
         "label": [
           "مشروع منجز",
@@ -237,7 +254,8 @@
         ]
       },
       {
-        "value": "[00]+",
+        "value": 35,
+        "suffix": "+",
         "icon": "users",
         "label": [
           "خبير ومطوّر",
@@ -245,7 +263,8 @@
         ]
       },
       {
-        "value": "[00]+",
+        "value": 10,
+        "suffix": "+",
         "icon": "award",
         "label": [
           "سنوات خبرة",

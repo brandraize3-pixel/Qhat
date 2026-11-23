@@ -47,7 +47,8 @@ Change a line there and both language versions update.
 
 Placeholders to replace with real company data:
 - `brand.email`, `brand.phone`, `brand.address`, `brand.cr`, `brand.vat`
-- `home.stats` (the `[00]+` figures)
+- `home.stats` (`value` number + `suffix`, currently demo figures)
+- `brand.social` (profile URLs — currently `#`; the WhatsApp one also drives the floating button, e.g. `https://wa.me/9665XXXXXXXX`)
 - `packagesPage.plans[].price`
 - `projectsPage.items` (these are sample projects; replace them with real work and images)
 - Client logos (the `[Client logo]` slots on the home page)

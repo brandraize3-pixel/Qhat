@@ -3,6 +3,7 @@ import Icon from "@/components/Icon";
 import Mockup from "@/components/Mockup";
 import CtaBand from "@/components/CtaBand";
 import ErpShowcase from "@/components/ErpShowcase";
+import CountUp from "@/components/CountUp";
 import { href, pad, site, t, type Locale } from "@/lib/i18n";
 
 export default async function Home({ params }: { params: Promise<{ locale: string }> }) {
@@ -55,9 +56,9 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
         <div className="container">
           <div className="stats__grid">
             {h.stats.map((s, i) => (
-              <div className={`stat reveal reveal-d${(i % 3) + 1}`} key={i}>
+              <div className={`stat tone-${[0, 1, 2, 4][i % 4]} reveal reveal-d${(i % 3) + 1}`} key={i}>
                 <span className="stat__icon"><Icon name={s.icon} /></span>
-                <div><span className="stat__value">{s.value}</span><p className="stat__label">{t(s.label, locale)}</p></div>
+                <div className="stat__body"><CountUp to={s.value} suffix={s.suffix} /><p className="stat__label">{t(s.label, locale)}</p></div>
               </div>
             ))}
           </div>

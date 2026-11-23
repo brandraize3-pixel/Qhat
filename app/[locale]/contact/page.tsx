@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Icon from "@/components/Icon";
 import PageHero from "@/components/PageHero";
 import ContactForm from "@/components/ContactForm";
+import SocialLinks from "@/components/SocialIcon";
 import { site, t, type Locale } from "@/lib/i18n";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
@@ -31,6 +32,10 @@ export default async function Contact({ params }: { params: Promise<{ locale: st
                   <div><small>{t(r.label, locale)}</small><strong dir={r.ltr ? "ltr" : undefined}>{r.value}</strong></div>
                 </div>
               ))}
+              <div className="info__social">
+                <small>{t(site.ui.follow_us, locale)}</small>
+                <SocialLinks locale={locale} variant="dark" />
+              </div>
             </div>
             <div className="map">
               <div className="map__pin"><span><Icon name="pin" /></span>{t(p.map, locale)}</div>
